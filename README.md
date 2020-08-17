@@ -71,7 +71,9 @@ w1, w2, w3, w4, w5, ..., wn
 通过pagerank算法计算得到的重要性最高的若干句子可以当作摘要。
 
 参考资料：
+
 https://www.cnblogs.com/motohq/p/11887420.html
+
 https://baike.baidu.com/item/google%20pagerank/2465380?fromtitle=pagerank&fromid=111004&fr=aladdin
 
 
